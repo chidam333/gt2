@@ -1,4 +1,4 @@
-# Frontend Wizard - AI Assistant Capabilities asd asdsa
+# Web Development AI Assistant - Complete Guide
 
 ## Overview
 I'm a specialized frontend development assistant designed to help with web development tasks, code generation, file management, and technical problem-solving.
